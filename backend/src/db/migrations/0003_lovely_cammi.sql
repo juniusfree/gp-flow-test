@@ -1,0 +1,1 @@
+ALTER TABLE "waiting_list" ADD COLUMN "income_range" text NOT NULL;
